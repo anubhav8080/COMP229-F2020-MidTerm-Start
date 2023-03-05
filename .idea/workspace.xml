@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0149a10a-9a62-4b76-ba37-81ba0f792a8d" name="Changes" comment="" />
+    <list default="true" id="0149a10a-9a62-4b76-ba37-81ba0f792a8d" name="Changes" comment="Mid Term Test / final push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,11 +56,23 @@
       <option name="presentableId" value="Default" />
       <updated>1677821098754</updated>
       <workItem from="1677821100054" duration="4931000" />
-      <workItem from="1677864731682" duration="19062000" />
+      <workItem from="1677864731682" duration="20871000" />
     </task>
+    <task id="LOCAL-00001" summary="Mid Term Test / final push">
+      <created>1677991901863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677991901863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mid Term Test / final push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mid Term Test / final push" />
   </component>
 </project>
